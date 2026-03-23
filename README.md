@@ -10,7 +10,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ahmed-metaoua&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AhmedMetaoua&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -84,15 +84,15 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-metaoua&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMetaoua&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-metaoua&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMetaoua&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-metaoua&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMetaoua&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -100,7 +100,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-metaoua&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMetaoua&theme=tokyo-night" />
 </p>
 
 ---
