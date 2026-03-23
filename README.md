@@ -23,7 +23,7 @@
 
 ```python
 focus       = ["Data Engineering", "Data Science", "AI & ML"]
-looking_for = "Internship in Data / ML / Analytics"
+looking_for = "Internship in Data / ML / Analytics / Full-Stack Development"
 fun_fact    = "Silver medalist @ WRO World Robot Contest 🤖"
 ```
 
