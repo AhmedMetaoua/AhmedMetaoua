@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Data Engineering | Data Science | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed-metaoua&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AhmedMetaoua&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -61,15 +61,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-metaoua&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMetaoua&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-metaoua&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMetaoua&theme=tokyonight" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-metaoua&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMetaoua&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-metaoua&theme=tokyo-night" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMetaoua&theme=tokyo-night" alt="activity graph"/>
 </p>
 
 ---
