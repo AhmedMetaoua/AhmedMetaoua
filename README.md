@@ -1,138 +1,162 @@
-<!-- HEADER -->
-<h1 align="center">
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ahmed Metaoua
-</h1>
+<div align="center">
 
-<h3 align="center">📊 Data Engineering | Data Science | AI Enthusiast</h3>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0066ff&height=200&section=header&text=Ahmed%20Metaoua&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Data%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=58&descColor=7eb3ff&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0e75b6&size=24&center=true&vCenter=true&width=600&height=40&lines=Data+Engineering+Student;Turning+Data+into+Insights;Machine+Learning+Enthusiast;Always+Learning+New+Things+🚀">
-</p>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4D9FFF&center=true&vCenter=true&width=600&lines=Data+Engineering+%26+Data+Science;Machine+Learning+%26+AI+Pipelines;Full+Stack+Web+Development;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=AhmedMetaoua&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<br/><br/>
+
+<!-- Contact Badges -->
+[![Email](https://img.shields.io/badge/Email-ahmedmtawahg%40gmail.com-0d6efd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmtawahg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Metaoua-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-metaoua)
+[![Location](https://img.shields.io/badge/📍-Monastir%2C%20Tunisia-1e3a5f?style=for-the-badge)](https://maps.google.com/?q=Monastir,Tunisia)
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Software Engineering Student (ISIMM, Tunisia)  
-- 📊 Passionate about **Data Engineering, Data Analysis & AI**  
-- ⚙️ Building **data pipelines, analytics tools & ML projects**  
-- 🎯 Looking for a **Data Internship (Data Engineer / Analyst / Scientist)**  
+```python
+class AhmedMetaoua:
+    role        = "Software Engineering Student @ ISIMM"
+    focus       = ["Data Engineering", "Data Science", "AI & ML"]
+    currently   = "Cycle d'ingénierie en Génie Logiciel (2024 – Present)"
+    looking_for = "Internship in Data Pipeline / ML / Analytics"
+    fun_fact    = "Silver medalist at WRO World Robot Contest 🤖"
 
----
-
-## 🎯 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Engineering-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
-</p>
-
-- 🔄 Building **ETL pipelines & data workflows**  
-- ⚡ Learning **Big Data tools (Spark)**  
-- 🗄️ Improving **SQL & data modeling**  
-- 📊 Practicing **real-world data analysis projects**  
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something amazing together 🚀")
+```
 
 ---
 
 ## ⚡ Tech Stack
 
-### 📊 Data & AI
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy" />
-</p>
+<div align="center">
 
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+### 🤖 AI & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### ⚙️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker" />
-</p>
+### 🌐 Web & Full Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Web (Bonus Skills)
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
-</p>
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🏆 NVIDIA Certifications
 
-### 🧾 AI-Powered Invoice Processing
-- 📥 Extracted data from PDF invoices  
-- 🔄 Data cleaning & transformation  
-- 📊 Generated insights from financial data  
+<div align="center">
 
-### 📅 Timetable Generator
-- 📊 Processed Excel datasets  
-- ⚙️ Built automated scheduling system  
-- 📈 Optimized data handling  
+| Certification | Issued | Issuer |
+|:---|:---:|:---:|
+| 🧠 Fundamentals of Deep Learning | Feb 2025 | NVIDIA |
+| 🤗 Building Transformer-Based NLP Applications | Feb 2025 | NVIDIA |
+| 🎨 Generative AI with Diffusion Models | Apr 2025 | NVIDIA |
+
+</div>
+
+---
+
+## 💼 Experience
+
+### 🏢 STEG – Société Tunisienne de l'Électricité et du Gaz *(June 2025)*
+> **Automation Developer Intern** · Tunis, Tunisia
+
+- ⚙️ Built Python + MySQL performance analysis tools
+- 🔄 Designed and executed ETL pipelines from production databases
+- 📊 Automated report generation with Matplotlib visualizations
+
+---
+
+### 🏢 DOT-IT *(June 2023)*
+> **Full Stack Developer Intern** · Sousse, Tunisia
+
+- 🛒 Developed a full-stack e-commerce app with **Next.js**
+- 🔐 Implemented secure authentication using **NextAuth**
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| 👗 **TryOutfit** | Mobile app for AI-powered virtual clothing try-on from images | AI APIs, Mobile |
+| 🏦 **SecureBank** | Full-stack banking web app with secure auth & transaction management | Next.js, Node.js |
+| 🧾 **AI Invoice Processor** | Automated PDF invoice data extraction & intelligent accounting analysis | Python, AI, Web |
+| 📅 **Uni Schedule Generator** | Web app generating academic timetables via algorithms from Excel data, with real-time student notifications | Python, Excel ETL, Web |
+
+</div>
+
+---
+
+## 🎖️ Awards & Recognition
+
+- 🥈 **Silver Medal** — WRO World Robot Contest (2018)
+- 🤝 **Best Teamwork Award** — Belt and Road Teenager Maker Camp (2020)
+
+---
+
+## 🌐 Languages
+
+<div align="center">
+
+![Arabic](https://img.shields.io/badge/Arabic-Native-006400?style=for-the-badge)
+![French](https://img.shields.io/badge/French-B2%20(TCF%20TP%202025)-0055A4?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Intermediate-C8102E?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMetaoua&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMetaoua&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedmetaoua&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=4d9fff&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmetaoua&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4d9fff&text_color=ffffff" height="165" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMetaoua&layout=compact&theme=tokyonight" />
-</p>
+<br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmetaoua&theme=tokyonight&hide_border=true&background=0d1117&ring=4d9fff&fire=4d9fff&currStreakLabel=4d9fff" />
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMetaoua&theme=tokyo-night" />
-</p>
+</div>
 
 ---
 
-## 🏆 Achievements
+## 🤝 Community & Engagement
 
-🥈 Silver Medal — World Robot Olympiad  
-🏅 Best Teamwork Award — Belt & Road Maker Camp  
-
----
-
-## 📜 Certifications
-
-✔ NVIDIA — Fundamentals of Deep Learning  
-✔ NVIDIA — Transformer-Based NLP  
-✔ NVIDIA — Generative AI  
+- **IEEE ISIMM Student Branch** — Active Member *(2022 – 2024)*
+- **ATAST Robotics Club** — Member & Coach *(2015 – 2024)*
+  - Mentored students in robotics, programming & innovation projects
 
 ---
 
-## 🌍 Connect With Me
+<div align="center">
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ahmed-metaoua" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:ahmedmtawahg@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-</a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:1a1f35,100:0d1117&height=120&section=footer" />
 
----
+*"Data is the new oil — let's refine it." ⚡*
 
-## ⚡ Fun Fact
-
-💡 I love transforming **raw data into actionable insights** and building intelligent systems 🚀
+</div>
