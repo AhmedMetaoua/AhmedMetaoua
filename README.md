@@ -17,6 +17,21 @@
 
 ---
 
+## 🎯 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Engineering-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+</p>
+
+- 🔄 Building **data pipelines (ETL/ELT)**  
+- ⚡ Learning **Big Data tools (Spark, distributed processing)**  
+- 🧠 Improving **Machine Learning models & evaluation**  
+- 📊 Practicing **real-world data analysis projects**  
+
 ## ⚡ Tech Stack
 
 ### 📊 Data & AI
