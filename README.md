@@ -22,15 +22,9 @@
 ## 🧠 About Me
 
 ```python
-class AhmedMetaoua:
-    role        = "Software Engineering Student @ ISIMM"
-    focus       = ["Data Engineering", "Data Science", "AI & ML"]
-    currently   = "Cycle d'ingénierie en Génie Logiciel (2024 – Present)"
-    looking_for = "Internship in Data Pipeline / ML / Analytics"
-    fun_fact    = "Silver medalist at WRO World Robot Contest 🤖"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
+focus       = ["Data Engineering", "Data Science", "AI & ML"]
+looking_for = "Internship in Data / ML / Analytics"
+fun_fact    = "Silver medalist @ WRO World Robot Contest 🤖"
 ```
 
 ---
@@ -100,12 +94,12 @@ class AhmedMetaoua:
 
 <div align="center">
 
-| Project | Description | Stack |
-|:---|:---|:---|
-| 👗 **TryOutfit** | Mobile app for AI-powered virtual clothing try-on from images | AI APIs, Mobile |
-| 🏦 **SecureBank** | Full-stack banking web app with secure auth & transaction management | Next.js, Node.js |
-| 🧾 **AI Invoice Processor** | Automated PDF invoice data extraction & intelligent accounting analysis | Python, AI, Web |
-| 📅 **Uni Schedule Generator** | Web app generating academic timetables via algorithms from Excel data, with real-time student notifications | Python, Excel ETL, Web |
+| Project | Description | Live |
+|:---|:---|:---:|
+| 👗 [**TryOutfit**](https://github.com/AhmedMetaoua/TryOutfit) | Mobile app for AI-powered virtual clothing try-on from images | — |
+| 🏦 [**SecureBank**](https://github.com/AhmedMetaoua/banking-web-application) | Full-stack banking web app with secure auth & transaction management | [🔗 Demo](https://v0-banking-web-application-two.vercel.app) |
+| 🧾 [**AI Invoice Processor**](https://github.com/AhmedMetaoua/factu-vision) | Automated PDF invoice data extraction & intelligent accounting analysis | [🔗 Demo](https://factu-vision.vercel.app) |
+| 📅 [**Uni Schedule Generator**](https://github.com/WassimmhX/Schedule) | Web app generating academic timetables via algorithms from Excel data, with real-time student notifications | — |
 
 </div>
 
