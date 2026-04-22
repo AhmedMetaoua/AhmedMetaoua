@@ -22,8 +22,8 @@
 ## 🧠 About Me
 
 ```python
-focus       = ["Data Engineering", "AI & ML", "Full-Stack Developer"]
-looking_for = "Internship in Data / ML / Analytics / Full-Stack Development"
+focus       = ["Agentic AI", "ML & AI", "Full-Stack Developer"]
+looking_for = "Internship in AI / Data Science / Full-Stack Development"
 fun_fact    = "Silver medalist @ WRO World Robot Contest 🤖"
 ```
 
