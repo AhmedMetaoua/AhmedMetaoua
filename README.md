@@ -103,7 +103,6 @@ fun_fact    = "Silver medalist @ WRO World Robot Contest 🤖"
 | 👗 [**TryOutfit**](https://github.com/AhmedMetaoua/TryOutfit) | Mobile app for AI-powered virtual clothing try-on from images | — |
 | 🏦 [**SecureBank**](https://github.com/AhmedMetaoua/banking-web-application) | Full-stack banking web app with secure auth & transaction management | [🔗 Demo](https://v0-banking-web-application-two.vercel.app) |
 | 🧾 [**AI Invoice Processor**](https://github.com/AhmedMetaoua/factu-vision) | Automated PDF invoice data extraction & intelligent accounting analysis | [🔗 Demo](https://factu-vision.vercel.app) |
-| 📅 [**Uni Schedule Generator**](https://github.com/WassimmhX/Schedule) | Web app generating academic timetables via algorithms from Excel data, with real-time student notifications | — |
 
 </div>
 
