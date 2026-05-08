@@ -98,6 +98,8 @@ fun_fact    = "Silver medalist @ WRO World Robot Contest 🤖"
 
 | Project | Description | Live |
 |:---|:---|:---:|
+| 🤖 [**AI-Powered Multi-Agent Student Platform**](#) | Agentic AI platform built with LangGraph, integrating RAG pipelines and an interactive dashboard for adaptive and personalized student learning | — |
+| 📈 [**Crypto-Dashboard**](#) | Data Engineering & ML platform for real-time multi-asset market analysis using streaming/batch pipelines and a scalable lakehouse architecture | — |
 | 👗 [**TryOutfit**](https://github.com/AhmedMetaoua/TryOutfit) | Mobile app for AI-powered virtual clothing try-on from images | — |
 | 🏦 [**SecureBank**](https://github.com/AhmedMetaoua/banking-web-application) | Full-stack banking web app with secure auth & transaction management | [🔗 Demo](https://v0-banking-web-application-two.vercel.app) |
 | 🧾 [**AI Invoice Processor**](https://github.com/AhmedMetaoua/factu-vision) | Automated PDF invoice data extraction & intelligent accounting analysis | [🔗 Demo](https://factu-vision.vercel.app) |
