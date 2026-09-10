@@ -75,6 +75,16 @@ fun_fact    = "Silver medalist @ WRO World Robot Contest 🤖"
 
 ## 💼 Experience
 
+### 🏢 Talan Tunisie *(2026)*
+> **AI Engineering Intern — Talan SummerCamp 2026** · Tunis, Tunisia
+ 
+- 🌾 Built **Agriment**, an AI-powered agricultural platform for French farmers, as part of team DarjaGpt
+- 🧩 Designed three integrated modules: a Regulation Advisor, an Agriculture Advisor (soil, satellite, and RPG data), and a Business AI Advisor with human-in-the-loop design
+- 📊 Prepared the competitive analysis and jury presentation framing for the project
+- 🥈 Won **2nd prize** at Talan SummerCamp 2026
+
+---
+
 ### 🏢 STEG – Société Tunisienne de l'Électricité et du Gaz *(June 2025)*
 > **Automation Developer Intern** · Tunis, Tunisia
 
@@ -98,6 +108,7 @@ fun_fact    = "Silver medalist @ WRO World Robot Contest 🤖"
 
 | Project | Description | Live |
 |:---|:---|:---:|
+| 🌾 [**Agriment**](#) | AI-powered agricultural platform for French farmers built during Talan SummerCamp 2026 — Regulation Advisor, Agriculture Advisor (soil/satellite/RPG data), and a human-in-the-loop Business AI Advisor | — |
 | 🤖 [**AI-Powered Multi-Agent Student Platform**](#) | Agentic AI platform built with LangGraph, integrating RAG pipelines and an interactive dashboard for adaptive and personalized student learning | — |
 | 📈 [**Crypto-Dashboard**](https://github.com/karimdinari/crypto-dashboard) | Data Engineering & ML platform for real-time multi-asset market analysis using streaming/batch pipelines and a scalable lakehouse architecture | — |
 | 👗 [**TryOutfit**](https://github.com/AhmedMetaoua/TryOutfit) | Mobile app for AI-powered virtual clothing try-on from images | — |
@@ -110,8 +121,10 @@ fun_fact    = "Silver medalist @ WRO World Robot Contest 🤖"
 
 ## 🎖️ Awards & Recognition
 
-- 🥈 **Silver Medal** — WRO World Robot Contest (2018)
-- 🤝 **Best Teamwork Award** — Belt and Road Teenager Maker Camp (2020)
+- 🥈 **2nd Place** — Talan SummerCamp 2026
+- 🥇 **1st Place** — GreenNovation Hackathon 2026
+- 🥈 **Silver Medal** — WRO World Robot Contest 2018
+- 🤝 **Best Teamwork Award** — Belt and Road Teenager Maker Camp 2020
 
 ---
 
