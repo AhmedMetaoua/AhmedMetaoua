@@ -141,6 +141,16 @@ fun_fact    = "Silver medalist @ WRO World Robot Contest 🤖"
 ---
 
 ## 📊 GitHub Stats
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedMetaoua&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=4d9fff&text_color=ffffff&cache_seconds=1800" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMetaoua&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4d9fff&text_color=ffffff&cache_seconds=1800" height="165" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMetaoua&theme=tokyonight&hide_border=true&background=0d1117&ring=4d9fff&fire=4d9fff&currStreakLabel=4d9fff" />
+</div>
+
+
+## 📊 GitHub Stats
 
 <div align="center">
 
