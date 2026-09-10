@@ -78,9 +78,9 @@ fun_fact    = "Silver medalist @ WRO World Robot Contest 🤖"
 ### 🏢 Talan Tunisie *(2026)*
 > **AI Engineering Intern — Talan SummerCamp 2026** · Tunis, Tunisia
  
-- 🌾 Built **Agriment**, an AI-powered agricultural platform for French farmers, as part of team DarjaGpt
+- 🌾 Co-built **AgriMent**, a multi-agent AI decision-support platform for farmers (regulation, crop planning, business scoring, monitoring, marketplace)
+- 🧭 Built the **LangGraph supervisor agent**, routing each request to the correct sub-agent based on the farmer's onboarding state machine
 - 🧩 Designed three integrated modules: a Regulation Advisor, an Agriculture Advisor (soil, satellite, and RPG data), and a Business AI Advisor with human-in-the-loop design
-- 📊 Prepared the competitive analysis and jury presentation framing for the project
 - 🥈 Won **2nd prize** at Talan SummerCamp 2026
 
 ---
@@ -108,7 +108,7 @@ fun_fact    = "Silver medalist @ WRO World Robot Contest 🤖"
 
 | Project | Description | Live |
 |:---|:---|:---:|
-| 🌾 [**Agriment**](#) | AI-powered agricultural platform for French farmers built during Talan SummerCamp 2026 — Regulation Advisor, Agriculture Advisor (soil/satellite/RPG data), and a human-in-the-loop Business AI Advisor | — |
+| 🌾 [**Agriment**](#) | Multi-agent AI platform for farmers built during Talan SummerCamp 2026 — Regulation Advisor, Agriculture Advisor (soil/satellite/RPG data), and a human-in-the-loop Business AI Advisor | — |
 | 🤖 [**AI-Powered Multi-Agent Student Platform**](#) | Agentic AI platform built with LangGraph, integrating RAG pipelines and an interactive dashboard for adaptive and personalized student learning | — |
 | 📈 [**Crypto-Dashboard**](https://github.com/karimdinari/crypto-dashboard) | Data Engineering & ML platform for real-time multi-asset market analysis using streaming/batch pipelines and a scalable lakehouse architecture | — |
 | 👗 [**TryOutfit**](https://github.com/AhmedMetaoua/TryOutfit) | Mobile app for AI-powered virtual clothing try-on from images | — |
